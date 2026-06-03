@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 00:00:00 +0800
 categories: [随笔]
 tags: [开始]
 ---
