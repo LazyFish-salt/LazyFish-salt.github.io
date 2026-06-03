@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: LazyFish's Blog # the main title
 
-tagline: 懒鱼咸鱼翻身记 # it will display as the subtitle
+tagline: 懒鱼翻身记 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   一个基于 Jekyll + Chirpy 主题的个人博客站点。
